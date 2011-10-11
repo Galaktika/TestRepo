@@ -1,0 +1,177 @@
+REST а не SOAP
+http://www.insight-it.ru/masshtabiruemost/arkhitektura-amazon/
+http://hbase.apache.org/book/quickstart.html
+http://hadoop.apache.org/
+http://hive.apache.org/
+http://ru.wikipedia.org/wiki/Amazon_EC2
+http://ru.wikipedia.org/wiki/Amazon_Web_Services
+http://ru.wikipedia.org/wiki/Google_App_Engine
+http://code.google.com/appengine/docs/python/gettingstarted/
+http://www.platform.com/private-cloud-computing
+[Citrix] http://www.cloud.com/
+
+
+Infrastructure as a Service (IaaS)
+http://openstack.org/projects/
+OpenStack is a collaborative software project designed to create freely available code, badly needed standards, and common ground for the benefit of both cloud providers and cloud customers. OpenStack is currently three projects:
+http://en.wikipedia.org/wiki/Nimbus_%28cloud_computing%29
+Nimbus is an open-source toolkit that, once installed on a cluster, provides an infrastructure as a Service cloud to its client via WSRF-based or Amazon EC2 WSDL web service APIs.
+Eucalyptus implements IaaS (Infrastructure as a Service) style private and hybrid clouds.
+
+Platform as a Service (PaaS)
+http://en.wikipedia.org/wiki/Platform_as_a_service
+
+http://appscale.cs.ucsb.edu/
+http://en.wikipedia.org/wiki/AppScale
+AppScale: Open Source Platform
+AppScale is an open-source framework for running Google App Engine applications.
+AppScale features
+    Python, Java, and Go App Engine support
+    Powerful computational power via Neptune
+    More choices in your infrastructure
+    Vast selection of datastores
+
+Google
+Amazon
+Comparing Amazon's and Google's Platform-as-a-Service (PaaS) Offerings 
+http://www.zdnet.com/blog/hinchcliffe/comparing-amazons-and-googles-platform-as-a-service-paas-offerings/166?tag=btxcsim
+
+
+Software as a Service (SaaS)
+Cloud storage
+http://en.wikipedia.org/wiki/Gluster
+
+
+
+http://www.cnetwork.in/2011/07/windows-server-8-next-step-in-private.html
+Wednesday, July 13, 2011
+Windows Server 8 the Next Step in Private Cloud Computing 
+Since Windows Azure is at the core of the company's public Cloud strategy, Windows Server 8 will be key to its private Cloud push. 
+General availability deadlines are yet to be made public for either of the two operating systems, but customers are most likely to see the two products hit commercial availability in 2012, even in the first half of next year. 
+
+
+http://ru.wikipedia.org/wiki/Windows_Azure
+Инфраструктура просто и легко с <частным облаком> Hyper-V http://habrahabr.ru/tag/Netapp/
+http://habrahabr.ru/blogs/cloud_computing/120939/
+Напоследок, Аллан высказал свои соображения насчёт будущего публичных облаков: им есть куда расти и совершенствоваться. Производительность в публичном облаке, как правило, оставляет желать лучшего. С другой стороны, свой дата центр или облако имеют смысл лишь при достижении определённого уровня трафика, подразумевая капитальные вложения в железо и затраты на разработку собственного облака.
+
+http://habrahabr.ru/blogs/development/122168/
+http://habrahabr.ru/company/softline/blog/122412/
+
+http://ru.wikipedia.org/wiki/Sun_Cloud
+Sun Cloud - сервис облачных вычислений, предоставляемый корпорацией Sun Microsystems. Он использует открытые технологии, такие как Solaris 10, Sun Grid Engine и платформа Java.
+1 час CPU = 1$
+
+http://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B9%D0%A1%D0%BA%D0%BB%D0%B0%D0%B4
+
+http://ru.wikipedia.org/wiki/Microsoft_Office_365
+
+Найдет ли Red Hat <место под солнцем> на рынке облачного ПО?
+http://habrahabr.ru/blogs/linux/122799/
+Для конкуренции с VMware, Red Hat должна заручиться поддержкой сотен новых партнёров. Но использование Open Source виртуализации и внушительная инсталляционная база Linux Red Hat, кажется, сможет стать твёрдой основой для долгосрочного успеха.
+Я думаю, Red Hat еще рано говорить о серьезной конкуренции с VMware. Пока что настоящий конкурент - это Microsoft с его Hyper-V, ну и наверное Citrix. RHEV пока слишком <сырая>, чтобы говорить о ней всерьез.
+Citrix - всего-лишь <рыба-прилипала>, без внятной собственной стратегии развития виртуализации.
+
+http://ru.wikipedia.org/wiki/Ubuntu_One
+
+http://habrahabr.ru/company/softline/blog/118741
+Что же есть облачная система? Можно попробовать так: <Облако - это динамично расширяемая информационная система, при необходимости предоставляющая потребителям IT сервисы с заданными характеристиками и позволяющая контролировать качество предоставления услуг согласно заложенным метрикам>. (http://www.bureausolomatina.com/node/97)
+
+http://www.microsoft.com/windowsazure/offers/popup/popup.aspx?lang=en&locale=en-US&offer=MS-AZR-0019P
+
+Customers may purchase multiple Base Units to match their development needs.
+
+
+Base Unit Pricing:
+$71.99 per Base Unit per month for the initial subscription term of six months, which can be renewed once at the same Base Unit price.
+Monthly usage exceeding the amount included in the Base Units purchased will be charged at the rates indicated in the Overage Pricing section.
+Our Base Unit price represents 20% off our standard consumption rates for Windows Azure Compute.
+Subscription term:  6 months
+Base Unit Includes:
+    Windows Azure
+        750 hours of a small compute instance
+
+Base Unit Pricing:
+$79.99 per Base Unit per month for the initial subscription term of six months, which can be renewed once at the same Base Unit price.
+    SQL Azure
+        1 Business Edition database (10 GB relational database)
+
+Monthly usage exceeding the amount included in the Base Units purchased will be charged at the standard rates:
+
+Windows Azure
+
+    Compute*
+        Extra small instance**: $0.05 per hour
+        Small instance (default): $0.12 per hour
+        Medium instance: $0.24 per hour
+        Large instance: $0.48 per hour
+        Extra large instance: $0.96 per hour
+    Virtual Network***
+        Windows Azure Connect - No charge during CTP
+    Storage
+        $0.15 per GB stored per month
+        $0.01 per 10,000 storage transactions
+    Content Delivery Network (CDN)
+        $0.15 per GB for data transfers from European and North American locations
+        $0.20 per GB for data transfers from other locations
+        $0.01 per 10,000 transactions
+
+SQL Azure
+
+    Web Edition
+    $9.99 per database up to 1GB per month
+    $49.95 per database up to 5GB per month
+
+Business Edition
+
+    $99.99 per database up to 10GB per month
+    $199.98 per database up to 20GB per month
+    $299.97 per database up to 30GB per month
+    $399.96 per database up to 40GB per month
+    $499.95 per database up to 50GB per month
+
+AppFabric
+
+    Access Control****
+        $1.99 per 100,000 transactions
+    Service Bus
+        $3.99 per connection on a "pay-as-you-go" basis
+        Pack of 5 connections $9.95
+        Pack of 25 connections $49.75
+        Pack of 100 connections $199.00
+        Pack of 500 connections $995.00
+    Caching*****
+        128 MB cache for $45.00
+        256 MB cache for $55.00
+        512 MB cache for $75.00
+        1 GB cache for $110.00
+        2 GB cache for $180.00
+        4 GB cache for $325.00
+
+Data Transfers
+
+    North America and Europe regions
+        $0.15 per GB out
+    Asia Pacific region
+        $0.20 per GB out
+    All inbound data transfers are at no charge.
+
+*Compute hours are calculated based on the number of hours that your application is deployed. Please refer to the Compute Instances section of this offer for further details.
+**Extra small compute instances are available in beta and are billed separately from other compute instance sizes.
+***The Windows Azure Connect service is available in Community Technology Preview (CTP).
+****No charge for billing periods before January 1, 2012.
+*****The Windows Azure AppFabric Caching service is provided at no charge for billing periods prior to August 1, 2011.
+
+http://ru.wikipedia.org/wiki/Google_Apps
+Google Apps - службы, предоставляемые компанией Google для использования своего доменного имени с некоторыми продуктами Google. Регистрация доменного имени через регистратора, авторизованного компанией Google, стоит $10 в год.
+
+http://www.google.com/apps/intl/ru/business/features.html
+USD 	5 долларов США за пользователя в месяц
+или 	50 долларов США за пользователя в год
+
+4 евро / польз. аккаунт / месяц
+или 40 евро / польз. аккаунт / год
+
+Базовый пакет бесплатен и предлагает тот же объём ящика электронной почты для одного пользователя, что и обычная учётная запись Gmail, возможна регистрация до 10 пользователей, включая администратора. Допускается отсылка писем на не более чем 500 внешних адресов в день[1]. На базовый пакет не распространяется техническая поддержка Google.
+$50/год/пользователя Профессиональный пакет предлагает объём ящика электронной почты 25 ГБ для одного пользователя и предоставляется за 50 долларов в год за одну учётную запись пользователя. Заказчикам предоставляется техническая поддержка, API для интеграции с существующей инфраструктурой и заявляется гарантия 99,9 % времени бесперебойной работы электронной почты. Допускается отсылка на не более чем 2000 внешних адресов в день[1].
+Пакет для учебных заведений бесплатен, включает все функции профессионального пакета, за исключением сервиса видеохостинга, с объёмом ящика электронной почты как в Базовом пакете.
